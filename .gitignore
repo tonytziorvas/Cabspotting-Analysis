@@ -1,0 +1,4 @@
+data/
+csv/
+alldata/
+.pytest_cache
